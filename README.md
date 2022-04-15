@@ -4,11 +4,11 @@
 A basic airline ticket reservation system built on flutter for web using firebase database. Both frontend and bakend are available. Feel free to fork and improve on the script. Mention any bugs in the script.
 
 ## 🔗 Demo Links
-**Admin panel**
+**Admin panel  **
 [![twitter](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
 )](https://miniprojectadmin-66482.firebaseapp.com/)
 
-**User frontend**
+**User frontend  **
 [![twitter](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
 )](https://flight-booking-user.firebaseapp.com/)
 
