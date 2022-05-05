@@ -4,11 +4,11 @@ A basic airline ticket reservation system built on flutter for web using firebas
 
 ## 🔗 Demo Links
 **Admin panel**  
-[![twitter](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
 )](https://miniprojectadmin-66482.firebaseapp.com/)
 
 **User frontend**  
-[![twitter](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
 )](https://flight-booking-user.firebaseapp.com/)
 
 
@@ -36,7 +36,7 @@ A basic airline ticket reservation system built on flutter for web using firebas
 **Want to hire me on your upcoming or ongoing flutter project? 
 Contact me on Fiverr**
 
-[![twitter](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
+[![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
 )](https://www.fiverr.com/balajikannan03)
 
 
